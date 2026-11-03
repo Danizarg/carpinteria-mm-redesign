@@ -9,7 +9,8 @@ export const site = {
   monogram: "M&M",
   tagline: "La madera convertida en arte.",
   city: "Marbella",
-  url: "https://carpinteria-mm-redesign.vercel.app",
+  /** Production origin — drives metadataBase, canonicals, OG and the sitemap. */
+  url: "https://carpinteria-mm-redesign-danizargs-projects.vercel.app",
   locale: "es-ES",
   /** From «¿Quiénes somos?»: "más de 30 años de experiencia en el sector". */
   yearsOfExperience: 30,
